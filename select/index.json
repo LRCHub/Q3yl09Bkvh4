@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "虚言NEUROSE - Itsuwari Neurose",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2026-01-05T04:49:37.267773Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "虚言NEUROSE",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/01_虚言NEUROSE_MY_FIRST_STORY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "虚言NEUROSE",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/02_虚言NEUROSE_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "虚言NEUROSE - Itsuwari Neurose",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/03_虚言NEUROSE_-_Itsuwari_Neurose_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虚言NEUROSE - Itsuwari Neurose",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_虚言NEUROSE_-_Itsuwari_Neurose_MY_FIRST_STORY.txt"
+    }
+  ]
+}
